@@ -1,7 +1,6 @@
 import React from "react";
 import "./Formation.css";
 import Wac from "../../assets/wac.png";
-import code from "../../assets/code.jfif";
 import { FcMultipleDevices, FcComboChart, FcBriefcase } from "react-icons/fc";
 
 export default function Formation() {

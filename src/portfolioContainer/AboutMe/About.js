@@ -1,5 +1,4 @@
-import React, { Profiler } from "react";
-import Profile from "../Home/Profile/Profile";
+import React from "react";
 import profil from "../../assets/profil2.jpg";
 import "./About.css";
 
