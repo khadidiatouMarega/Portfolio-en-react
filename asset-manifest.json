@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-en-react/static/css/main.3decba73.chunk.css",
-    "main.js": "/Portfolio-en-react/static/js/main.a1eb4348.chunk.js",
-    "main.js.map": "/Portfolio-en-react/static/js/main.a1eb4348.chunk.js.map",
+    "main.js": "/Portfolio-en-react/static/js/main.f0620310.chunk.js",
+    "main.js.map": "/Portfolio-en-react/static/js/main.f0620310.chunk.js.map",
     "runtime-main.js": "/Portfolio-en-react/static/js/runtime-main.0bf229a7.js",
     "runtime-main.js.map": "/Portfolio-en-react/static/js/runtime-main.0bf229a7.js.map",
     "static/js/2.37c6ea5f.chunk.js": "/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js",
@@ -14,7 +14,6 @@
     "static/js/2.37c6ea5f.chunk.js.LICENSE.txt": "/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js.LICENSE.txt",
     "static/media/P4.3fefae32.png": "/Portfolio-en-react/static/media/P4.3fefae32.png",
     "static/media/index.css": "/Portfolio-en-react/static/media/Poppins-Thin.a61eaf4c.ttf",
-    "static/media/code.383af620.jfif": "/Portfolio-en-react/static/media/code.383af620.jfif",
     "static/media/html-css.26f358b4.png": "/Portfolio-en-react/static/media/html-css.26f358b4.png",
     "static/media/js.166865da.png": "/Portfolio-en-react/static/media/js.166865da.png",
     "static/media/laravel.7597c83d.png": "/Portfolio-en-react/static/media/laravel.7597c83d.png",
@@ -32,6 +31,6 @@
     "static/js/runtime-main.0bf229a7.js",
     "static/js/2.37c6ea5f.chunk.js",
     "static/css/main.3decba73.chunk.css",
-    "static/js/main.a1eb4348.chunk.js"
+    "static/js/main.f0620310.chunk.js"
   ]
 }
