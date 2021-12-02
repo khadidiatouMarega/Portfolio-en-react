@@ -2,7 +2,7 @@
   "name": "mon-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://git@github.com:khadidiatouMarega.github.io/Portfolio-en-react",
+  "homepage": "https://khadidiatouMarega.github.io/Portfolio-en-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
