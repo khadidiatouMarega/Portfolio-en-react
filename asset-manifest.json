@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/css/main.0aa9093a.chunk.css",
+    "main.js": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/main.a1eb4348.chunk.js",
+    "main.js.map": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/main.a1eb4348.chunk.js.map",
+    "runtime-main.js": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/runtime-main.d66c454d.js",
+    "runtime-main.js.map": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/runtime-main.d66c454d.js.map",
+    "static/js/2.37c6ea5f.chunk.js": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js",
+    "static/js/2.37c6ea5f.chunk.js.map": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js.map",
+    "static/js/3.b5e9f0b1.chunk.js": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/3.b5e9f0b1.chunk.js",
+    "static/js/3.b5e9f0b1.chunk.js.map": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/3.b5e9f0b1.chunk.js.map",
+    "index.html": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/index.html",
+    "static/css/main.0aa9093a.chunk.css.map": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/css/main.0aa9093a.chunk.css.map",
+    "static/js/2.37c6ea5f.chunk.js.LICENSE.txt": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js.LICENSE.txt",
+    "static/media/P4.3fefae32.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/P4.3fefae32.png",
+    "static/media/index.css": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/code.383af620.jfif": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/code.383af620.jfif",
+    "static/media/html-css.26f358b4.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/html-css.26f358b4.png",
+    "static/media/js.166865da.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/js.166865da.png",
+    "static/media/laravel.7597c83d.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/laravel.7597c83d.png",
+    "static/media/mongodb.d9066650.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/mongodb.d9066650.png",
+    "static/media/php.4ba17fd0.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/php.4ba17fd0.png",
+    "static/media/Profile.css": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/profil1.2314ca93.jpg",
+    "static/media/profil2.7f4ba5b6.jpg": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/profil2.7f4ba5b6.jpg",
+    "static/media/snap.ebc876d7.jpg": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/snap.ebc876d7.jpg",
+    "static/media/snap2.6604fddc.jpg": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/snap2.6604fddc.jpg",
+    "static/media/snap3.b8d9cedc.jpg": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/snap3.b8d9cedc.jpg",
+    "static/media/symfony.d2f7907b.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/symfony.d2f7907b.png",
+    "static/media/tw.98bc048d.png": "/git@github.com:khadidiatouMarega.github.io/Portfolio-en-react/static/media/tw.98bc048d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d66c454d.js",
+    "static/js/2.37c6ea5f.chunk.js",
+    "static/css/main.0aa9093a.chunk.css",
+    "static/js/main.a1eb4348.chunk.js"
+  ]
+}
