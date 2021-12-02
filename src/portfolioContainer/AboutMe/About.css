@@ -1,0 +1,114 @@
+  .text_description{
+    font-size: 18px;
+    height: 330px;
+    width: 330px;  
+    margin-top: 80px;
+    margin-left: 50px;
+    font-family: 🚈 ;
+  }
+  .hobbies{
+    margin-top: 30px;
+  }
+  .diplome{
+    margin-top: 30px;
+  }
+  .about{
+    margin-bottom: -155px;
+  }
+  .titre_h, .titre_d{
+    color: #86092f; 
+  }
+.about_image{
+    float: left;
+    border-radius: 40px;
+    height: 550px;
+    width: 300px; 
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.about_heading{
+    margin-bottom: 10px;
+    font-weight: 700;
+
+}
+@media screen and (max-width: 1110px){ 
+  .about_image{
+    border-radius: 20px;
+    height: 450px;
+    width: 200px; 
+    margin-bottom: 130px;
+    margin-top: 130px;
+  }
+  .about{
+    height: 830px;
+  }
+}
+@media screen and (max-width: 910px){
+   .about_image{
+    border-radius: 20px;
+    height: 350px;
+    width: 200px; 
+    margin-bottom: 110px;
+    margin-top: 110px;
+  }
+  .text_description{
+    font-size: 10px;
+    height: 200px;
+    width: 200px;  
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 🚈 ;
+  }
+}
+@media screen and (max-width: 810px){
+  .hello1{
+    margin-top: 50px;
+  }
+  .hello2{
+    margin-bottom: 50px;
+  }
+  .dip{
+    margin-bottom: 36px;
+  }
+  .about_image{
+   visibility: hidden;
+  }
+  .text_description{
+    display: block;
+    width: 470px;
+    margin-top: 10px;
+    margin-left: -150px;
+  }
+  .about{
+    height: 780px;
+  }
+}
+@media screen and (max-width: 375px){
+
+  .about_image{
+    border-radius: 10px;
+    height: 90px;
+    width: 90px; 
+    margin-bottom: 70px;
+    margin-top: 70px;
+  }
+  .text_description{
+    display: block;
+    font-size: 2px;
+    width: 940px;  
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: 🚈 ;
+  }
+  .about{
+    margin-bottom: -125px;
+  }
+}
+@media screen and (max-width: 280px){
+  .about{
+    height: 800px;
+  }
+  .text_description{
+    width: 660px;
+}
+}

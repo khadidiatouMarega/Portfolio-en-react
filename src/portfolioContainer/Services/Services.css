@@ -1,0 +1,98 @@
+.competenceT{
+    font-weight: 700;
+    margin-top: 30px;
+}
+.logo{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.competence{
+    align-items: center;
+    margin: 15% 15% -10% 15%;
+}
+.symf{
+    width: 30%;
+    height: 30%; 
+    /* margin-left: -130px; */
+}
+.lara{
+    width: 30%;
+    height: 30%;  
+    /* margin-right: -130px;
+    margin-left: -130px; */
+}
+.jvs{
+    width: 30%;
+    height: 30%;  
+    /* margin-right: -130px;
+    margin-left: -130px;  */
+}
+.rc{
+    width: 30%;
+    height: 30%;  
+    /* margin-right: -130px;
+    margin-left: -130px;  */
+}
+.css{
+    width: 30%;
+    height: 30%;  
+    /* margin-right: -130px;
+    margin-left: -130px; 
+    margin-top: 10px; */
+}
+.mysql{
+    width: 30%;
+    height: 30%;  
+}
+.elephant{
+    width: 30%;
+    height: 30%;  
+} 
+.mogodb{
+    width: 30%;
+    height: 30%;    
+}
+.Services{
+    /* background-color: red; */
+}
+.symfony{
+    width: 30%;
+    height: 30%; 
+    /* margin-bottom: 20px; */
+    /* margin-right: 0; */
+}
+.laravel{
+    width: 30%;
+    height: 30%; 
+}
+.js{
+    /**/
+    width: 30%;
+    height: 30%;
+    /* margin-left: 30px; */
+}
+.react{
+    width: 30%;
+    height: 30%;
+}
+.html{
+    width: 45%;
+    height: 45%;
+}
+.sql{
+    width: 30%;
+    height: 30%;
+    /* margin: 0; */
+}
+.php{
+    width: 40%;
+    height: 40%;
+}
+
+ .mongo{
+    width: 50%;
+    height: 50%;
+ }
