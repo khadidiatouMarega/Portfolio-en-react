@@ -48,14 +48,11 @@ export default function Profile() {
           <div className="profile-details">
             <div className="colz">
               <div className="colz-icon">
-                <a href="https://emplois.be.indeed.com/cmp/Ride">
+                <a href="https://my.indeed.com/p/khadidiatoum-09q0x85">
                   <i className="fa fa-linkedin"></i>
                 </a>
-                <a href="https://github.com/khadidiatou1">
+                <a href="https://github.com/">
                   <i className="fa fa-github-square"></i>
-                </a>
-                <a href="#">
-                  <i className="fa fa-twitter-square"></i>
                 </a>
                 <a href="https://www.linkedin.com/feed/">
                   <i className="fa fa-linkedin-square"></i>
