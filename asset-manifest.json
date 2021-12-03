@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio-en-react/static/css/main.3decba73.chunk.css",
-    "main.js": "/Portfolio-en-react/static/js/main.f0620310.chunk.js",
-    "main.js.map": "/Portfolio-en-react/static/js/main.f0620310.chunk.js.map",
+    "main.css": "/Portfolio-en-react/static/css/main.63d44bdf.chunk.css",
+    "main.js": "/Portfolio-en-react/static/js/main.ea963ac1.chunk.js",
+    "main.js.map": "/Portfolio-en-react/static/js/main.ea963ac1.chunk.js.map",
     "runtime-main.js": "/Portfolio-en-react/static/js/runtime-main.0bf229a7.js",
     "runtime-main.js.map": "/Portfolio-en-react/static/js/runtime-main.0bf229a7.js.map",
     "static/js/2.37c6ea5f.chunk.js": "/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.b5e9f0b1.chunk.js": "/Portfolio-en-react/static/js/3.b5e9f0b1.chunk.js",
     "static/js/3.b5e9f0b1.chunk.js.map": "/Portfolio-en-react/static/js/3.b5e9f0b1.chunk.js.map",
     "index.html": "/Portfolio-en-react/index.html",
-    "static/css/main.3decba73.chunk.css.map": "/Portfolio-en-react/static/css/main.3decba73.chunk.css.map",
+    "static/css/main.63d44bdf.chunk.css.map": "/Portfolio-en-react/static/css/main.63d44bdf.chunk.css.map",
     "static/js/2.37c6ea5f.chunk.js.LICENSE.txt": "/Portfolio-en-react/static/js/2.37c6ea5f.chunk.js.LICENSE.txt",
     "static/media/P4.3fefae32.png": "/Portfolio-en-react/static/media/P4.3fefae32.png",
     "static/media/index.css": "/Portfolio-en-react/static/media/Poppins-Thin.a61eaf4c.ttf",
     "static/media/html-css.26f358b4.png": "/Portfolio-en-react/static/media/html-css.26f358b4.png",
     "static/media/js.166865da.png": "/Portfolio-en-react/static/media/js.166865da.png",
     "static/media/laravel.7597c83d.png": "/Portfolio-en-react/static/media/laravel.7597c83d.png",
+    "static/media/maq.fc25829c.png": "/Portfolio-en-react/static/media/maq.fc25829c.png",
     "static/media/mongodb.d9066650.png": "/Portfolio-en-react/static/media/mongodb.d9066650.png",
     "static/media/php.4ba17fd0.png": "/Portfolio-en-react/static/media/php.4ba17fd0.png",
     "static/media/Profile.css": "/Portfolio-en-react/static/media/profil1.2314ca93.jpg",
@@ -30,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.0bf229a7.js",
     "static/js/2.37c6ea5f.chunk.js",
-    "static/css/main.3decba73.chunk.css",
-    "static/js/main.f0620310.chunk.js"
+    "static/css/main.63d44bdf.chunk.css",
+    "static/js/main.ea963ac1.chunk.js"
   ]
 }
