@@ -16,7 +16,7 @@ export default function About() {
               </div>
               <div className="col text_description">
                 <div className="hello Text1">
-                  <h3 className="titre_d hello1">Hello</h3>
+                  <h3 className="titre_d hello1">Salut</h3>
                   <h5 className="text_techno hello2 ">
                     Au besoin de me former, j’ai choisi un cursus en alternance
                     à la web@demie d’Epitech au titre de développeuse

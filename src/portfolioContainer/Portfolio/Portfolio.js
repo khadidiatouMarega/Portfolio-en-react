@@ -4,6 +4,7 @@ import Snap from "../../assets/snap2.jpg";
 import Snap2 from "../../assets/snap.jpg";
 import Snap3 from "../../assets/snap3.jpg";
 import Twiter from "../../assets/tw.png";
+import Maquette from "../../assets/maq.png";
 import "./Portfolio.css";
 import { AiFillGithub } from "react-icons/ai";
 
@@ -80,11 +81,11 @@ export default function Portfolio() {
 
       <div className="language">
         <div className="lang1 ">
-          <h4>Puissance_4</h4>
-          <div className="affiche_text ">
-            <img src={P4} alt="Jeu puissance 4" className="port_img" />
+          <h4>Maquette</h4>
+          <div className="affiche_text maq1 ">
+            <img src={Maquette} alt="Maquette" className="maq port_img" />
           </div>
-          <p>Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
+          <p>Projet création d'une maquette en HTML et CSS (1 semaine)</p>
           {/* <p className="text_git">
             <a href="https://github.com/khadidiatou1/Puissance-4">
               <AiFillGithub size="2rem" color="#000" />

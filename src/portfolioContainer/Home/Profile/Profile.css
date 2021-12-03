@@ -5,6 +5,7 @@
     justify-content: center;
     height: 10%;
     min-height: fit-content;
+    margin-bottom: -50px;
 }
  .profile-parent{
     display: flex;
@@ -50,7 +51,8 @@
     border-radius: 50%;
     height: 330px;
     width: 330px;
-    margin: 160px 0px 0 100px;
+    margin: 96px 0px 0px 100px;
+    margin-bottom: 110px;
 }
 
 .primary-btn:hover{
@@ -83,6 +85,36 @@
 }
 .colz .colz-icon i:hover{
     transform: scale(1.2);
+}
+.menu{  
+    width: 100%;
+    display: flex;
+    position: fixed;
+    z-index: 0;
+    background-color: whitesmoke;
+    opacity: 1;
+}
+
+.menu_b{
+
+    margin: 0% 0% 0% 12% ;
+}
+.menu a{
+    font-size: 19px;
+    margin-bottom:  40px;
+    margin-right: 20px;
+    color: #111;
+    text-decoration: none;
+    list-style-type: none;
+  }
+.bi{
+    display: flex;
+    float: left;
+    cursor: pointer;
+}
+.maq1{
+width: 300px;
+height: 220px;
 }
  @media screen and (max-width: 1110px){ 
     .menu_b{
@@ -143,31 +175,6 @@
     .profile-options, .profile-details-role{
         text-align: center;
     }
-}
-.menu{  
-    width: 100%;
-    display: flex;
-    position: fixed;
-    z-index: 0;
-    background-color: whitesmoke;
-    opacity: 1;
-}
-.menu_b{
-
-    margin: 0% 0% 0% 12% ;
-}
-.menu a{
-    font-size: 19px;
-    margin-bottom:  40px;
-    margin-right: 20px;
-    color: #111;
-    text-decoration: none;
-    list-style-type: none;
-  }
-.bi{
-    display: flex;
-    float: left;
-    cursor: pointer;
 }
 @media screen and (max-width: 375px){
     .App{
