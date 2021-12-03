@@ -32,10 +32,6 @@
 
 }
 @media screen and (max-width: 1110px){ 
-  .div{
-    /* font-size: 112px; */
-    /* background-color: #86092f; */
-  }
   .about_image{
     border-radius: 20px;
     height: 450px;

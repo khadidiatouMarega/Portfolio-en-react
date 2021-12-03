@@ -112,10 +112,7 @@
     float: left;
     cursor: pointer;
 }
-.maq1{
-width: 300px;
-height: 220px;
-}
+
  @media screen and (max-width: 1110px){ 
     .menu_b{
         margin: 0% 0% 0% 12% ;

@@ -33,11 +33,10 @@ export default function Formation() {
             <h3 className=" titre_h">Pédagogie d' EPITECH</h3>
             <p className=" text_techno">
               A la Web@cadémie by EPITECH c'est la pédagogie "d'apprendre à
-              apprendre qui est mise en avant". Elle consiste à assimiler la
+              apprendre" qui est mise en avant. Elle consiste à assimiler la
               théorie par la pratique dès le début de la formation, reposant sur
               notre autonomie, notre esprit d'équipe et l'accompagnement
-              pédagogique apporté. Ainsi les preuves de cette méthode inductive
-              d'EPITECH ne sont plus à démontrer.
+              pédagogique apporté.
             </p>
           </div>
           <div className="col description">

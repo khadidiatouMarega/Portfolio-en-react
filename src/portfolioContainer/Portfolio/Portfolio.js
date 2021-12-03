@@ -5,12 +5,11 @@ import Snap2 from "../../assets/snap.jpg";
 import Snap3 from "../../assets/snap3.jpg";
 import Twiter from "../../assets/tw.png";
 import Maquette from "../../assets/maq.png";
+import cinema from "../../assets/cinema.png";
 import "./Portfolio.css";
 import { AiFillGithub } from "react-icons/ai";
 
 export default function Portfolio() {
-  const [description, setDescription] = useState("Bonjour");
-  // console.log('Click');
   return (
     <div className="Portfolio" id="Portfolio">
       <div className="border"></div>
@@ -23,7 +22,6 @@ export default function Portfolio() {
               src={P4}
               alt="Jeu puissance 4"
               className="image port_img"
-              onClick={() => setDescription("Bonjour")}
             />
           </div>
           <div className="jeu_p">
@@ -80,10 +78,10 @@ export default function Portfolio() {
       </div>
 
       <div className="language">
-        <div className="lang1 ">
+        <div className="lang1 jeu_text">
           <h4>Maquette</h4>
-          <div className="affiche_text maq1 ">
-            <img src={Maquette} alt="Maquette" className="maq port_img" />
+          <div className="affiche_text  maq">
+            <img src={Maquette} alt="Maquette" className="image port_img" />
           </div>
           <p>Projet création d'une maquette en HTML et CSS (1 semaine)</p>
           {/* <p className="text_git">
@@ -94,11 +92,11 @@ export default function Portfolio() {
           </p> */}
         </div>
         <div className="lang1 ">
-          <h4>Puissance_4</h4>
+          <h4>Cinema</h4>
           <div className="affiche_text ">
-            <img src={P4} alt="Jeu puissance 4" className="port_img" />
+            <img src={cinema} alt="Jeu puissance 4" className="ciné port_img" />
           </div>
-          <p>Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
+          <p>Projet création d'un site de cinéma en PHP (2 semaines)</p>
           {/* <p className="text_git">
             <a href="https://github.com/khadidiatou1/Puissance-4">
               <AiFillGithub size="2rem" color="#000" />

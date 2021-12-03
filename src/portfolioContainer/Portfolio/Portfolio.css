@@ -37,14 +37,21 @@
    height: 100%;
    margin-right: 22px;
 }
+.maq, .ciné{
+    width: 320px;
+    height: 220px;
+}
 .jeu_p{
    display: block;
 }
- .port_img{
-    cursor: pointer;
-}
 .affiche_text{
     margin-bottom: 18px;
+}
+@media screen and (max-width: 1110px){ 
+    .maq, .ciné{
+        width: 220px;
+        height: 150px;
+    } 
 }
 @media screen and (max-width: 810px){
     h4{

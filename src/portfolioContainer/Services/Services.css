@@ -16,32 +16,22 @@
 .symf{
     width: 30%;
     height: 30%; 
-    /* margin-left: -130px; */
 }
 .lara{
     width: 30%;
     height: 30%;  
-    /* margin-right: -130px;
-    margin-left: -130px; */
 }
 .jvs{
     width: 30%;
     height: 30%;  
-    /* margin-right: -130px;
-    margin-left: -130px;  */
 }
 .rc{
     width: 30%;
     height: 30%;  
-    /* margin-right: -130px;
-    margin-left: -130px;  */
 }
 .css{
     width: 30%;
     height: 30%;  
-    /* margin-right: -130px;
-    margin-left: -130px; 
-    margin-top: 10px; */
 }
 .mysql{
     width: 30%;
@@ -55,24 +45,17 @@
     width: 30%;
     height: 30%;    
 }
-.Services{
-    /* background-color: red; */
-}
 .symfony{
     width: 30%;
     height: 30%; 
-    /* margin-bottom: 20px; */
-    /* margin-right: 0; */
 }
 .laravel{
     width: 30%;
     height: 30%; 
 }
 .js{
-    /**/
     width: 30%;
     height: 30%;
-    /* margin-left: 30px; */
 }
 .react{
     width: 30%;
@@ -85,7 +68,6 @@
 .sql{
     width: 30%;
     height: 30%;
-    /* margin: 0; */
 }
 .php{
     width: 40%;
