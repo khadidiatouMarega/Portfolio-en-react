@@ -30,6 +30,15 @@ h4{
 h3{
     margin-top: 17px;
     margin-bottom: 17px;
+}@media screen and (max-width: 1110px){
+    .text_techno2{
+        font-size: 38px;
+    }
+.detail{
+    margin-left: -50px;
+    display: block;
+    width: 880px;
+  }
 }
 @media screen and (max-width: 810px){
     .detail{

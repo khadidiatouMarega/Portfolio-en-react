@@ -7,9 +7,9 @@ export default function Formation() {
   return (
     <div className="Formation" id="Formations">
       <div className="border"></div>
-      <h1 className="form">Formation</h1>
+      <h1 className="form text_techno2">Formation</h1>
       <div className="webac">
-        <h2 className="">
+        <h2 className="text_techno2">
           WEB@CADEMIE BY EPITECH <img className="wac" src={Wac} />
         </h2>
       </div>
@@ -17,7 +17,7 @@ export default function Formation() {
         <div className="detail">
           <div className="col description">
             <FcMultipleDevices size="6rem" className="icon" />
-            <h3 className=" titre_h">Technologie du web</h3>
+            <h3 className=" titre_h text_techno2">Technologie du web</h3>
             <p className=" text_techno">
               Au cours de cette première année, on eu à apprendre l'intégration
               HTML/CSS, initiation aux fondamentaux PHP et Javascript.
@@ -30,7 +30,7 @@ export default function Formation() {
           </div>
           <div className=" col description">
             <FcComboChart size="6rem" className="icon" />
-            <h3 className=" titre_h">Pédagogie d' EPITECH</h3>
+            <h3 className=" titre_h text_techno2">Pédagogie d' EPITECH</h3>
             <p className=" text_techno">
               A la Web@cadémie by EPITECH c'est la pédagogie "d'apprendre à
               apprendre" qui est mise en avant. Elle consiste à assimiler la
@@ -41,7 +41,7 @@ export default function Formation() {
           </div>
           <div className="col description">
             <FcBriefcase size="6rem" className="icon" />
-            <h3 className=" titre_h">Période d'alternance</h3>
+            <h3 className=" titre_h text_techno2">Période d'alternance</h3>
             <p className=" text_techno">
               Cette période commence dés le 13 MARS 2022, sur un rythme de 3
               semaines en entreprise et une semaine au campus Universitaire

@@ -7,7 +7,7 @@ export default function About() {
     <div className="Abouts about" id="Abouts">
       <div className="container">
         <div className="apropos">
-          <h1 className="about_heading">A propos</h1>
+          <h1 className="about_heading text_techno2">A propos</h1>
 
           <div className="about_text">
             <div className="row">
@@ -16,7 +16,7 @@ export default function About() {
               </div>
               <div className="col text_description">
                 <div className="hello Text1">
-                  <h3 className="titre_d hello1">Salut</h3>
+                  <h3 className="titre_d hello1 text_techno2" >Salut</h3>
                   <h5 className="text_techno hello2 ">
                     Au besoin de me former, j’ai choisi un cursus en alternance
                     à la web@demie d’Epitech au titre de développeuse
@@ -32,7 +32,7 @@ export default function About() {
                   </h5>
                 </div>
                 <div className="diplome Text1">
-                  <h3 className="titre_d ">Diplômes et Expériences</h3>
+                  <h3 className="titre_d text_techno2">Diplômes et Expériences</h3>
                   <h5 className="text_techno dip">
                     Je suis titulaire d'un baccalauréat littéraire, obtenu en
                     2018 au Sénégal. Aprés mon arrivée en France , j'ai décider
@@ -40,14 +40,14 @@ export default function About() {
                     l'informatique et le développement web en suivant cette
                     formation à la Web@cadémie.
                   </h5>
-                  <h5 className="text_techno">
+                  <h5 className="text_techno text_techno2">
                     Etant quelqu' un de pédagogue, affective et ferme quand il
                     faut l' être j'ai fais de la garde d'enfants (1 à 10ans) et
                     de l'aide au devoir de 2015 à 2018.
                   </h5>
                 </div>
                 <div className="hobbies Text1">
-                  <h3 className="titre_h dip">Hobbies</h3>
+                  <h3 className="titre_h dip text_techno2">Hobbies</h3>
                   <h5 className="text_techno">
                     Passionnée de cuisine j'aime concocter des recettes au grand
                     bonheur de la famille et des ami(e)s. Fan de sport également

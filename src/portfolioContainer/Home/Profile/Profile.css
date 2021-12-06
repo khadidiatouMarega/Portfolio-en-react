@@ -114,9 +114,26 @@
 }
 
  @media screen and (max-width: 1110px){ 
+     .profile-container{
+        margin-top: 3% ;
+     }
+     .text_techno4{
+        font-size: 19px;
+     }
+     .text_techno5{
+        font-size: 15px;
+     }
+     .menu-d{
+         margin: 0 0 7% 0;
+     }
+    .colz-icon{
+        font-weight: 1900px;
+        margin-top: 60px;
+    }
     .menu_b{
-        margin: 0% 0% 0% 12% ;
-        height: 65px;
+        margin: 1% 0% 0% 0% ;
+        height: 90px;
+    
     }
      .profile-picture{
         margin: 50px;

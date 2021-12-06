@@ -22,7 +22,7 @@ export default function Contact(){
          <div className="border"></div>
          <p id="Contact"></p>
             <h1  className="titre">Me contacter</h1>
-            <p className="email">Je reste joingnable par mail<strong> khadidiatou.marega@epitech.eu</strong></p>
+            <p className="email text_techno1">Je reste joingnable par mail<strong> khadidiatou.marega@epitech.eu</strong></p>
             <form id="contact-form" onSubmit={sendEmail} >
                         <div className="form-group">
                             <label></label> 
@@ -34,7 +34,7 @@ export default function Contact(){
                         <div className="form-group">
                             <textarea className="form-control" rows="5" placeholder="Votre message" name="message"/>
                         </div>
-                        <button type="submit" className="button-submit"  value="Send">Envoyer</button>
+                        <button type="submit" className="button-submit text_techno1"  value="Send">Envoyer</button>
                         </form>
         </div>
     )

@@ -13,10 +13,10 @@ export default function Portfolio() {
   return (
     <div className="Portfolio" id="Portfolio">
       <div className="border"></div>
-      <h1 className="form">Portfolio</h1>
+      <h1 className="form ">Portfolio</h1>
       <div className="language">
         <div className="lang1 jeu_text ">
-          <h4>Puissance_4</h4>
+          <h4 className="text_techno1">Puissance_4</h4>
           <div className="affiche_text">
             <img
               src={P4}
@@ -27,7 +27,7 @@ export default function Portfolio() {
           <div className="jeu_p">
             <div className="jeu_puissance " id="affiche_text desc">
               <h1></h1>
-              <p>Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
+              <p className="text_techno1">Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
               {/* <p className="text_git">
                 <a href="https://github.com/khadidiatou1/Puissance-4">
                   <AiFillGithub size="2rem" color="#000" />
@@ -38,13 +38,13 @@ export default function Portfolio() {
           </div>
         </div>
         <div className="lang1  ">
-          <h4>My_twiter</h4>
+          <h4 className="text_techno1">My_twiter</h4>
           <div className="affiche_text ">
             <img src={Twiter} alt="Twiter" className=" tw port_img" />
           </div>
           <div className="jeu_puissance ">
-            <p>
-              Projet création d'une application avec des fonctiannalités de
+            <p className="text_techno1">
+              Projet création d'un réseau social à l'image de
               twitter en PHP (2 semaines)
             </p>
             {/* <p className="text_git">
@@ -56,15 +56,15 @@ export default function Portfolio() {
           </div>
         </div>
         <div className="lang1">
-          <h4>My_snapchat</h4>
+          <h4 className="text_techno1">My_snapchat</h4>
           <div className=" snap_b affiche_text">
             <img src={Snap} alt="Jeu puissance 4" className="snap_img " />
             <img src={Snap2} alt="Jeu puissance 4" className="snap_img " />
             <img src={Snap3} alt="Jeu puissance 4" className="snap_img " />
           </div>
           <div className="snachat">
-            <p>
-              Projet création d'une application (my_snapchat) avec ReactNative
+            <p  className="text_techno1">
+              Projet création d'un réseau social (snapchat) avec React Native
               (1 semaine)
             </p>
             {/* <p className="text_git">
@@ -79,11 +79,11 @@ export default function Portfolio() {
 
       <div className="language">
         <div className="lang1 jeu_text">
-          <h4>Maquette</h4>
+          <h4 className="text_techno1">Maquette</h4>
           <div className="affiche_text  maq">
             <img src={Maquette} alt="Maquette" className="image port_img" />
           </div>
-          <p>Projet création d'une maquette en HTML et CSS (1 semaine)</p>
+          <p className="text_techno1">Projet création d'une maquette en HTML et CSS (1 semaine)</p>
           {/* <p className="text_git">
             <a href="https://github.com/khadidiatou1/Puissance-4">
               <AiFillGithub size="2rem" color="#000" />
@@ -92,11 +92,11 @@ export default function Portfolio() {
           </p> */}
         </div>
         <div className="lang1 ">
-          <h4>Cinema</h4>
+          <h4 className="text_techno1">Cinema</h4>
           <div className="affiche_text ">
             <img src={cinema} alt="Jeu puissance 4" className="ciné port_img" />
           </div>
-          <p>Projet création d'un site de cinéma en PHP (2 semaines)</p>
+          <p className="text_techno1">Projet création d'un site de cinéma en PHP (2 semaines)</p>
           {/* <p className="text_git">
             <a href="https://github.com/khadidiatou1/Puissance-4">
               <AiFillGithub size="2rem" color="#000" />
@@ -105,11 +105,11 @@ export default function Portfolio() {
           </p> */}
         </div>
         <div className="lang1 ">
-          <h4>Puissance_4</h4>
+          <h4 className="text_techno1">Puissance_4</h4>
           <div className="affiche_text ">
             <img src={P4} alt="Jeu puissance 4" className="port_img" />
           </div>
-          <p>Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
+          <p className="text_techno1">Projet création d'un Puissance4 en JQUERY (1 semaine)</p>
           {/* <p className="text_git">
             <a href="https://github.com/khadidiatou1/Puissance-4">
               <AiFillGithub size="2rem" color="#000" />

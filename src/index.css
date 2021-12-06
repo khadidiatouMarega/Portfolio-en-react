@@ -90,10 +90,6 @@ font-family: "Poppins SemiBold";
   font-size: 13px;
 }
 }*/
-.primary-btn:hover{
-  
-  /* color: aliceblue; */
-}
 .highlighted-btn{
   color: var(--white);
   font-size: 12px;

@@ -9,22 +9,22 @@ export default function Profile() {
         <div className="menu_b">
           <ul className="navbar">
             <a href="#Home">
-              <li className="home">Home</li>
+              <li className="home text_techno1">Home</li>
             </a>
             <a href="#Abouts">
-              <li className="A_propos">A propos</li>
+              <li className="A_propos text_techno1">A propos</li>
             </a>
             <a href="#Compétence">
-              <li className="Services">Compétences</li>
+              <li className="Services text_techno1">Compétences</li>
             </a>
             <a href="#Formations">
-              <li className="Formations">Formations</li>
+              <li className="Formations text_techno1">Formations</li>
             </a>
             <a href="#Portfolio">
-              <li className="Portfolio">Portfolio</li>
+              <li className="Portfolio text_techno1">Portfolio</li>
             </a>
             <a href="#Contact">
-              <li className="Contact">Contact</li>
+              <li className="Contact text_techno1">Contact</li>
             </a>
           </ul>
         </div>
@@ -35,20 +35,20 @@ export default function Profile() {
             <div className="colz">
               <div className="colz-icon">
                 <a href="https://my.indeed.com/p/khadidiatoum-09q0x85">
-                  <i className="fa fa-linkedin"></i>
+                  <i className=" fa-2x fa fa-linkedin"></i>
                 </a>
                 <a href="https://github.com/">
-                  <i className="fa fa-github-square"></i>
+                  <i className="fa-2x fa fa-github-square"></i>
                 </a>
                 <a href="https://www.linkedin.com/feed/">
-                  <i className="fa fa-linkedin-square"></i>
+                  <i className="fa-2x fa fa-linkedin-square"></i>
                 </a>
               </div>
             </div>
             <div className="profile-details-name">
               <span className="primary-text">
                 {" "}
-                <span className="highlighted-text">Khadidiatou MAREGA</span>
+                <span className="highlighted-text text_techno1">Khadidiatou MAREGA</span>
               </span>
             </div>
             <div className="profile-details-role">
@@ -61,19 +61,19 @@ export default function Profile() {
                     steps={["Développeuse Full Stack", 1000]}
                   ></Typical>
                 </h1>
-                <span className="profile-role-tagline">
+                <span className="profile-role-tagline text_techno1">
                   Etudiante à la Web@académie d'Epitech en recherche
                   d'atlernance 1ère année.
                 </span>
                 <div className="profile-options">
                   <a href="#Contact">
-                    <button className="btn primary-btn">
+                    <button className="btn primary-btn text_techno4">
                       {""}
                       Me contacter
                     </button>
                   </a>
                   <a href="mon_cv.pdf" download="mon_cv.pdf">
-                    <button className="btn highlighted-btn">
+                    <button className="btn highlighted-btn text_techno5">
                       Télécharger mon CV
                     </button>
                   </a>
