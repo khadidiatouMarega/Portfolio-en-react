@@ -165,13 +165,37 @@
     .App{
         width: 1200px;
     }
+    .icon_gh{
+       font-size: 34px;
+    }
+    .font-sizeb{
+        width: 280px;
+        height: 100px;
+        font-size: 36px;
+    }
+    .font-sizeb1{
+        width: 385px;
+        height: 100px;
+        font-size: 36px;
+    }
+    #font-sizef{
+        /* background-color: teal; */
+        font-size: 56px; 
+    }
+    .font-sizef{
+        /* background-color: teal; */
+        font-size: 62px; 
+    }
+    .font-size{
+        font-size: 62px; 
+       }
     .menu{
         visibility: hidden;
     }
     .profile-picture {
         margin: 4px;
-        width: 150px;
-        height: 150px;
+        width: 400px;
+        height: 420px;
     }
     .profile-parent{
     flex-direction: column-reverse;

@@ -16,18 +16,18 @@ export default function Services() {
   return (
 <div className="Services competence" id="Compétence">
                 <div className="border"></div>
-                <h1 className="competenceT">Compétences</h1>
+                <h1 className="competenceT" id="font_t">Compétences</h1>
                 <div className='logo'>
-                    <div className="symf"><img className="symfony" src={Symfony} /></div>
-                    <div className="symf"><img className="laravel" src={Laravel} /></div>
-                    <div className="symf"><img className="js" src={JS} /></div>
-                    <div className="symf"><img className="react" src={REACT} /></div>
+                    <div className="symf logo1"><img className="symfony techno_icon" src={Symfony} /></div>
+                    <div className="symf logo1"><img className="laravel techno_icon" src={Laravel} /></div>
+                    <div className="symf logo2"><img className="js techno_icon" src={JS} /></div>
+                    <div className="symf logo2"><img className="react techno_icon" src={REACT} /></div>
                 </div>
                 <div className='logo'>
-                    <div className="symf"><img className="html" src={Html} /></div>
-                    <div className="symf"><img className="sql" src={SQL} /></div>
-                    <div className="symf"><img className="php" src={PHP} /></div>
-                    <div className="symf"><img className="mongo" src={Mongo}/></div>
+                    <div className="symf logo3"><img className="html techno_icon" src={Html} /></div>
+                    <div className="symf logo3"><img className="sql techno_icon" src={SQL} /></div>
+                    <div className="symf logo4"><img className="php techno_icon" src={PHP} /></div>
+                    <div className="symf logo4"><img className="mongo techno_icon" src={Mongo}/></div>
                 </div>
             </div>
   );

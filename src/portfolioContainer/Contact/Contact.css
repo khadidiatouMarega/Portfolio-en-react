@@ -27,15 +27,21 @@ strong{
 .border{
     border: 5px solid rgba(175, 171, 171, 0.801) ;
 }
+
 @media screen and (max-width: 1110px){
    
 }
 @media screen and (max-width: 810px){
+    .button-submit{
+        margin: 4% 0 2% 0;
+    }
     #contact-form{
-    width: 300px;
-    height: 300px;
+    width: 500px;
     margin: 0 auto;
-    margin-bottom: 150px;
+    margin-bottom: 460px;
+    }
+    .font-size1{
+        font-size: 50px;
     }
 }
 @media screen and (max-width: 375px){

@@ -1,10 +1,9 @@
   .text_description{
-    font-size: 18px;
     height: 330px;
     width: 330px;  
-    margin-top: 80px;
+    margin-top: 60px;
     margin-left: 50px;
-    font-family: 🚈 ;
+    /* font-family: ;  */
   }
   .hobbies{
     margin-top: 30px;
@@ -17,6 +16,9 @@
   }
   .titre_h, .titre_d{
     color: #86092f; 
+  }
+  .profil{
+    margin-top: 68px;
   }
 .about_image{
     float: left;
@@ -45,7 +47,7 @@
     visibility: hidden;
    }
   .about{
-    height: 1500px;
+    height: 1800px;
   }
 }
 @media screen and (max-width: 910px){
@@ -62,10 +64,22 @@
     width: 200px;  
     margin-top: 20px;
     margin-left: 20px;
-    font-family: 🚈 ;
   }
 }
 @media screen and (max-width: 810px){
+  #font_t{
+    font-size: 66px;
+  }
+  
+#font_s{
+  font-size: 62px;
+}
+  .font-sizef{
+    font-size: 62px; 
+   }
+  .font-size{
+    font-size: 62px; 
+   }
   .hello1{
     margin-top: 50px;
   }
@@ -85,7 +99,7 @@
     margin-left: -150px;
   }
   .about{
-    height: 780px;
+    height: 3630px;
   }
 }
 @media screen and (max-width: 375px){

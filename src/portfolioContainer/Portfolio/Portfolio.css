@@ -24,7 +24,12 @@
     width: 26%;
    height: 26%;
 }
+.p4{
+    margin-top: -10px;
+}
 .snap_b{
+    padding-top: 10px;
+    padding-bottom: 17px;
     border-radius: 38px;
     background-color: 	rgb(91, 138, 123);
 }
@@ -33,13 +38,16 @@
    height: 30%;
 }
 .tw{
-    width: 100%;
-   height: 100%;
+   height: 217px;
    margin-right: 22px;
 }
-.maq, .ciné{
-    width: 320px;
-    height: 220px;
+.maq{
+    width: 100%;
+    height: 230px;
+}
+.ciné{
+    width: 100%;
+    height: 230px;
 }
 .jeu_p{
    display: block;
@@ -48,6 +56,9 @@
     margin-bottom: 18px;
 }
 @media screen and (max-width: 1110px){ 
+    .tw{
+        height: 152px;
+    }
     .maq, .ciné{
         width: 220px;
         height: 150px;
@@ -58,6 +69,30 @@
     }
 }
 @media screen and (max-width: 810px){
+    .logo{
+      display: flex;
+    }
+    .tw{
+        height: 487px;
+        margin-right: 22px;
+     }
+    .screen{
+        margin-bottom: 90px;
+    }
+    .ciné, .maq{
+        width: 690px;
+        height: 450px;
+    }
+    .font-sizedesc{
+    font-size: 40px;
+    }
+    .jeu_text{
+        width: 700px;
+        margin: 0 a;
+    }
+    .language{
+      display: block;
+    }
     h4{
         font-size: 14px;
     }
@@ -75,4 +110,5 @@
     .language{
       display: block;
       width: 800px;
-    }}
+    }
+}
