@@ -40,7 +40,7 @@ h3{
     display: block;
     width: 880px;
   }
-  
+
 }
 @media screen and (max-width: 810px){
     .detail{
@@ -52,10 +52,7 @@ h3{
     h3{
         font-size: 15px;
     }
-    .techno_icon{
-        width: 200px;
-        height: 200px;
-    }
+    
     }
 @media screen and (max-width: 375px){
     .detail{

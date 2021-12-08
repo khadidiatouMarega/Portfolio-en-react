@@ -3,7 +3,6 @@
     width: 330px;  
     margin-top: 60px;
     margin-left: 50px;
-    /* font-family: ;  */
   }
   .hobbies{
     margin-top: 30px;
@@ -32,6 +31,10 @@
     margin-bottom: 10px;
     font-weight: 700;
 
+}
+
+.font-size{
+  font-size: 22px;
 }
 @media screen and (max-width: 1110px){ 
   .text_description{
@@ -117,15 +120,24 @@
     width: 940px;  
     margin-top: 20px;
     margin-left: 10px;
-    font-family: 🚈 ;
   }
   .about{
-    margin-bottom: -125px;
+    margin-bottom: 3250px;
+  }
+}
+@media screen and (max-width: 360px){
+  .about{
+    height: 850px;
+  }
+}
+@media screen and (max-width: 320px){
+  .about{
+    height: 850px;
   }
 }
 @media screen and (max-width: 280px){
   .about{
-    height: 800px;
+    height: 1800px;
   }
   .text_description{
     width: 660px;

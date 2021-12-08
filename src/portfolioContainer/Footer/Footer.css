@@ -7,7 +7,7 @@
 .copyright{
 margin-top: 30px;
 }
-@media only screen and (max-width: 1110px){
+@media screen and (max-width: 1110px){
     .footer-parent{
         display: flex;
         align-items: flex-end;
@@ -24,5 +24,37 @@ margin-top: 30px;
 @media screen and (max-width: 375px){
     .copyright{
         margin-top: 30px;
+        height: 415px;
         }
+    .footer-container{
+        display: flex;
+        justify-content:center;
+        height: 415px;
+        background-color: whitesmoke;
+        
+        }
+}
+@media screen and (max-width: 360px){
+    .footer-container{
+        margin-bottom: -900px;
+        height: 305px;
+        
+        }
+}
+@media screen and (max-width: 320px){
+    .footer-container{
+        display: flex;
+        justify-content:center;
+        height: 215px;
+        background-color: whitesmoke;
+    }
+}
+@media screen and (max-width: 280px){
+    .footer-container{
+        display: flex;
+        justify-content:center;
+        height: 215px;
+        background-color: whitesmoke;
+        margin-bottom: -111px;
+    }
 }

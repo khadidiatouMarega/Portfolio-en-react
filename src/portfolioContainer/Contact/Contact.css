@@ -28,15 +28,12 @@ strong{
     border: 5px solid rgba(175, 171, 171, 0.801) ;
 }
 
-@media screen and (max-width: 1110px){
-   
-}
 @media screen and (max-width: 810px){
     .button-submit{
         margin: 4% 0 2% 0;
     }
     #contact-form{
-    width: 500px;
+    width: 700px;
     margin: 0 auto;
     margin-bottom: 460px;
     }
@@ -52,11 +49,29 @@ strong{
     margin-bottom: 130px;
     }
 }
-@media screen and (max-width: 280px){
+@media screen and (max-width: 360px){
     #contact-form{
-    width: 300px;
+    width: 500px;
     height: 300px;
     margin: 0 auto; 
-    margin-bottom: 120px;
+    margin-bottom: 530px;
+    }
+}
+@media screen and (max-width: 320px){
+    #contact-form{
+        width: 500px;
+        height: 700px;
+        margin: 0 auto; 
+        margin-bottom: 130px
+    } 
+   
+}
+@media screen and (max-width: 280px){
+   
+    #contact-form{
+    width: 550px;
+    height: 300px;
+    margin: 0 auto; 
+    margin-bottom: 570px;
     }
 }
