@@ -63,7 +63,7 @@ export default function Profile() {
                 </h1>
                 <span className="profile-role-tagline text_techno1 font-sizef font-size">
                   Etudiante à la Web@académie d'Epitech en recherche
-                  d'atlernance 1ère année.
+                  d'alternance 1ère année.
                 </span>
                 <div className="profile-options">
                   <a href="#Contact">

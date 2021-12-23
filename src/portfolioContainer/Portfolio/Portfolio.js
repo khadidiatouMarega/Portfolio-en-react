@@ -38,7 +38,7 @@ export default function Portfolio() {
           </div>
         </div>
         <div className="lang1  jeu_text screen" id="tw">
-          <h4 className="text_techno1 font-sizef">My_twiter</h4>
+          <h4 className="text_techno1 font-sizef">Twit_académie</h4>
           <div className="affiche_text ">
             <img src={Twiter} alt="Twiter" className=" tw port_img" />
           </div>
