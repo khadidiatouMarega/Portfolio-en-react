@@ -72,7 +72,7 @@ export default function Profile() {
                       Me contacter
                     </button>
                   </a>
-                  <a href="mon_cv.pdf" download="mon_cv.pdf">
+                  <a href="CV.pdf" download="CV.pdf">
                     <button className="btn highlighted-btn text_techno5 font-sizeb1">
                       Télécharger mon CV
                     </button>
