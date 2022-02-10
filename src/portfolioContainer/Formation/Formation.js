@@ -45,8 +45,8 @@ export default function Formation() {
             <h5 className=" text_techno  font-size">
               Cette période commence dès le 14 mars 2022, sur un rythme de 3
               semaines en entreprise et une semaine au campus Universitaire
-              d'Epitech. Pour le contrat c'est un contrat de
-              professionnalisation ou un contrat apprentissage.
+              d'Epitech pour un contrat de
+              professionnalisation ou apprentissage.
             </h5>
             <p id="Portfolio"></p>
           </div>
