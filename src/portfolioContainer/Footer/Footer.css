@@ -7,13 +7,22 @@
 .copyright{
 margin-top: 30px;
 }
+.footer-container{
+    margin-top: 150px;
+}
 @media screen and (max-width: 1110px){
+    .footer-container{
+        width: 980px;
+    }
     .footer-parent{
         display: flex;
         align-items: flex-end;
     }
 }
 @media screen and (max-width: 810px){
+    .footer-container{
+        margin-top: 200px;
+    }
     .font-sizef{
         font-size: 52px; 
        }
@@ -22,6 +31,9 @@ margin-top: 30px;
     }
 }
 @media screen and (max-width: 375px){
+    .footer-container{
+        width: 1190px;
+    }
     .copyright{
         margin-top: 30px;
         height: 415px;

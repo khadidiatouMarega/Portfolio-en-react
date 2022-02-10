@@ -87,7 +87,7 @@
     transform: scale(1.2);
 }
 .menu{  
-    width: 100%;
+    width: 900px;
     display: flex;
     position: fixed;
     z-index: 0;
@@ -113,6 +113,20 @@
 }
 
  @media screen and (max-width: 1110px){ 
+    .menu a{
+        font-size: 19px;
+        margin-bottom:  280px;
+        margin-right: 14px;
+        color: #111;
+        text-decoration: none;
+        list-style-type: none;
+      }
+    .home-container{
+        width: 980px ;
+     }
+     .menu{
+        width: 970px ;
+     }
      .profile-container{
         margin-top: 3% ;
      }
@@ -150,6 +164,9 @@
     }
 }
 @media screen and (max-width: 910px){
+    .home-container{
+        width:1180px ;
+     }
     .menu_b{
         margin: 0% 0% 0% 12% ;
         height: 55px;

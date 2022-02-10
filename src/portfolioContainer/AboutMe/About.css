@@ -51,6 +51,7 @@
    }
   .about{
     height: 1800px;
+    margin-bottom: 2200px;
   }
 }
 @media screen and (max-width: 910px){

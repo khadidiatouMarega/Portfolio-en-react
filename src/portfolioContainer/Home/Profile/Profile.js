@@ -23,9 +23,6 @@ export default function Profile() {
             <a href="#Portfolio">
               <li className="Portfolio text_techno1">Portfolio</li>
             </a>
-            <a href="#Contact">
-              <li className="Contact text_techno1">Contact</li>
-            </a>
           </ul>
         </div>
       </div>

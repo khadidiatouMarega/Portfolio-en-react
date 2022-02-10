@@ -6,6 +6,7 @@ import Snap3 from "../../assets/snap3.jpg";
 import Twiter from "../../assets/tw.png";
 import Maquette from "../../assets/maq.png";
 import cinema from "../../assets/cinema.png";
+import Ecom from "../../assets/e-com.png";
 import "./Portfolio.css";
 import { AiFillGithub } from "react-icons/ai";
 
@@ -93,11 +94,11 @@ export default function Portfolio() {
           <h5 className="text_techno1 font-sizef">Projet création d'un site de cinéma en PHP (2 semaines)</h5>
           </div>
         <div className="lang1  jeu_text ">
-          <h4 className="text_techno1 font-sizef">Puissance_4</h4>
-          <div className="affiche_text ">
-            <img src={P4} alt="Jeu puissance 4" className="port_img" />
+          <h4 className="text_techno1 font-sizef">E-commerce</h4>
+          <div className="affiche_text ecom1">
+            <img src={Ecom} alt="Site E-commerce" className="port_img ecom" />
           </div>
-          <h5 className="text_techno1 font-sizef">Projet création d'un Puissance4 en JQUERY (1 semaine)</h5>
+          <h5 className="text_techno1 font-sizef">Projet E-commerce avec Symfony et Reactjs (4 semaines)</h5>
         
         </div>
       </div>
