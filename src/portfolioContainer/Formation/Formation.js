@@ -43,7 +43,7 @@ export default function Formation() {
             <FcBriefcase size="6rem" className="icon techno_icon" />
             <h3 className=" titre_h text_techno2  font-size" id="font_t">Période d'alternance</h3>
             <h5 className=" text_techno  font-size">
-              Cette période commence dès le 13 mars 2022, sur un rythme de 3
+              Cette période commence dès le 14 mars 2022, sur un rythme de 3
               semaines en entreprise et une semaine au campus Universitaire
               d'Epitech. Pour le contrat c'est un contrat de
               professionnalisation ou un contrat apprentissage.
